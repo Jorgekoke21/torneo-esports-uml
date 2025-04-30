@@ -28,8 +28,15 @@ y tambien generamos los premios y los asignamos al Torneo ( relación de Depende
 
 
 
-### Diagrama de Casos de Uso
-![Diagrama de casos de uso](diagrams/useCase.png)
+### Diagramas de Casos de Uso
+#### Registrar un Equipo
+![Registrar un equipo](diagrams/teamRegister-useCase.png)
+
+#### Añadir Jugador a un Equipo
+![Añadir jugador a un equipo](diagrams/addPlayer2Team-useCase.png)
+
+#### Ver Lista de Equipos y Jugadores
+![Ver lista de equipos y jugadores](diagrams/viewListTeamsAndPlayers-useCase.png)
 
 
 Registrar equipo
