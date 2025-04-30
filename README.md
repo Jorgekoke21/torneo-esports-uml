@@ -29,7 +29,7 @@ y tambien generamos los premios y los asignamos al Torneo ( relación de Depende
 
 
 ### Diagrama de Casos de Uso
-![Diagrama de casos de uso](diagrams/usecase.png)
+![Diagrama de casos de uso](diagrams/useCase.png)
 
 
 Registrar equipo
